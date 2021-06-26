@@ -1,6 +1,6 @@
 # scprojects
 Hello!\
-This represents my projects during Stancode SC101 course.\
+This represents my projects during Stancode SC101 course.
 
 
 # Project Source Code
